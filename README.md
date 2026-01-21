@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚡ About Me:
 👨‍💻 IT student | Learning Python 🐍, C# 💻, HTML & CSS 🌐  <br>🎯 Passionate about web development and building cool projects  <br>📚 Always exploring new coding skills and technologies<br>
 
 
